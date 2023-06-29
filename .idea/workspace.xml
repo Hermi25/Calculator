@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea02e65-c6c6-4afe-a4de-825a9c5dd012" name="Changes" comment="Sea Game = enter values to find the ships">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Animals.java" afterDir="false" />
+    <list default="true" id="6ea02e65-c6c6-4afe-a4de-825a9c5dd012" name="Changes" comment="Animals will ask some questions about themself">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687978834268</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Animals will ask some questions about themself">
+      <created>1688033398705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688033398705</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +205,7 @@
     <MESSAGE value="Calculator first lesson" />
     <MESSAGE value="Loops - lesson4" />
     <MESSAGE value="Sea Game = enter values to find the ships" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sea Game = enter values to find the ships" />
+    <MESSAGE value="Animals will ask some questions about themself" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animals will ask some questions about themself" />
   </component>
 </project>
