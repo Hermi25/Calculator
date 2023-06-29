@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea02e65-c6c6-4afe-a4de-825a9c5dd012" name="Changes" comment="Loops - lesson4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/SeaGame.java" afterDir="false" />
+    <list default="true" id="6ea02e65-c6c6-4afe-a4de-825a9c5dd012" name="Changes" comment="Sea Game = enter values to find the ships">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Animals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson3" />
+        <entry key="$PROJECT_DIR$" value="lesson4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +55,20 @@
       <recent name="lesson2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SeaGame">
+  <component name="RunManager" selected="Application.Animals">
+    <configuration name="Animals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.Animals" />
+      <module name="EpamTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson4.Loops" />
       <module name="EpamTraining" />
@@ -123,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Animals" />
         <item itemvalue="Application.SeaGame" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.ReversOrder" />
@@ -160,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687973374442</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sea Game = enter values to find the ships">
+      <created>1687978834268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687978834268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Calculator first lesson" />
     <MESSAGE value="Loops - lesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops - lesson4" />
+    <MESSAGE value="Sea Game = enter values to find the ships" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sea Game = enter values to find the ships" />
   </component>
 </project>
