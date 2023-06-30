@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea02e65-c6c6-4afe-a4de-825a9c5dd012" name="Changes" comment="ZOO">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Vehicle.java" afterDir="false" />
+    <list default="true" id="6ea02e65-c6c6-4afe-a4de-825a9c5dd012" name="Changes" comment="Creating Vehicle">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson7/Alpaka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson5/lesson7/Alpaka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson7/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson5/lesson7/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson7/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson5/lesson7/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson7/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson5/lesson7/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson7/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson5/lesson7/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +31,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson6" />
+        <entry key="$PROJECT_DIR$" value="lesson7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +65,7 @@
       <recent name="lesson2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.lesson8.Main">
     <configuration name="Animals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson6.Animals" />
       <module name="EpamTraining" />
@@ -110,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.ReversOrder" />
+    <configuration name="SeaGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.SeaGame" />
       <module name="EpamTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeaGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.SeaGame" />
+    <configuration name="lesson8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson8.Main" />
       <module name="EpamTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson5.*" />
+          <option name="PATTERN" value="lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson8.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Animals" />
         <item itemvalue="Application.SeaGame" />
         <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.ReversOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688060484052</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Creating Vehicle">
+      <created>1688135861315</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688135861315</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +239,7 @@
     <MESSAGE value="Sea Game = enter values to find the ships" />
     <MESSAGE value="Animals will ask some questions about themself" />
     <MESSAGE value="ZOO" />
-    <option name="LAST_COMMIT_MESSAGE" value="ZOO" />
+    <MESSAGE value="Creating Vehicle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating Vehicle" />
   </component>
 </project>
