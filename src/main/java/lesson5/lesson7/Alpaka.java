@@ -1,4 +1,4 @@
-package lesson7;
+package lesson5.lesson7;
 
 public class Alpaka extends Animal{
     String colorFur;
